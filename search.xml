@@ -4,36 +4,9 @@
   
     
     <entry>
-      <title>Hndler的原理</title>
-      <link href="/2021/08/20/android/"/>
-      <url>/2021/08/20/android/</url>
-      
-        <content type="html"><![CDATA[<h2 id="技术点"><a href="#技术点" class="headerlink" title="技术点"></a>技术点</h2><blockquote><p>handler是一个消息发送和接收的类，它的内部有一个消息池，一直进行循环的查找过来的消息，然后捕获消息</p></blockquote><h3 id="Hndler的原理"><a href="#Hndler的原理" class="headerlink" title="Hndler的原理"></a>Hndler的原理</h3>]]></content>
-      
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Typora </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello Word</title>
-      <link href="/2021/08/20/hello-world/"/>
-      <url>/2021/08/20/hello-world/</url>
+      <link href="/2021/08/20/shi-yong-github-chuang-jian-yi-ge-jian-dan-de-bo-ke/"/>
+      <url>/2021/08/20/shi-yong-github-chuang-jian-yi-ge-jian-dan-de-bo-ke/</url>
       
         <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
