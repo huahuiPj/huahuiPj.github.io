@@ -8,7 +8,7 @@
       <link href="/2021/08/20/android/"/>
       <url>/2021/08/20/android/</url>
       
-        <content type="html"><![CDATA[<p>##技术点</p><p>  handler是一个消息发送和接收的类，它的内部有一个消息池，一直进行循环的查找过来的消息，然后捕获消息</p><p>###Hndler的原理</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="技术点"><a href="#技术点" class="headerlink" title="技术点"></a>技术点</h2><blockquote><p>handler是一个消息发送和接收的类，它的内部有一个消息池，一直进行循环的查找过来的消息，然后捕获消息</p></blockquote><h3 id="Hndler的原理"><a href="#Hndler的原理" class="headerlink" title="Hndler的原理"></a>Hndler的原理</h3>]]></content>
       
       
       <categories>
